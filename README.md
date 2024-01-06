@@ -1,5 +1,7 @@
 # JsonStore
 
+## Go package, simple json storage
+
 ```golang
 
 var (
